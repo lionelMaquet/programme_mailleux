@@ -1,0 +1,13 @@
+C:\Users\lione\Desktop\programme_mailleux\bin\Release\netcoreapp3.1\programme_mailleux.exe
+C:\Users\lione\Desktop\programme_mailleux\bin\Release\netcoreapp3.1\programme_mailleux.deps.json
+C:\Users\lione\Desktop\programme_mailleux\bin\Release\netcoreapp3.1\programme_mailleux.runtimeconfig.json
+C:\Users\lione\Desktop\programme_mailleux\bin\Release\netcoreapp3.1\programme_mailleux.runtimeconfig.dev.json
+C:\Users\lione\Desktop\programme_mailleux\bin\Release\netcoreapp3.1\programme_mailleux.dll
+C:\Users\lione\Desktop\programme_mailleux\bin\Release\netcoreapp3.1\programme_mailleux.pdb
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.AssemblyInfo.cs
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.dll
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.pdb
+C:\Users\lione\Desktop\programme_mailleux\obj\Release\netcoreapp3.1\programme_mailleux.genruntimeconfig.cache
