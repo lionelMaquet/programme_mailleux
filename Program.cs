@@ -33,7 +33,7 @@ namespace programme_mailleux
                     }
 
                     // picto 
-                    if (fileName.EndsWith("picto.jpg"))
+                    else if (fileName.EndsWith("picto.jpg"))
                     {
                         picto = $"{Path.GetFileNameWithoutExtension(fileName)}.jpeg";
                     }
