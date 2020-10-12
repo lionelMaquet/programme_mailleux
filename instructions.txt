@@ -1,0 +1,8 @@
+Crée un document texte avec tous les noms de photos à ajouter
+
+dotnet run FILEPATH
+
+ex : 
+
+C:\Users\lionel.maquet\Desktop\mailleux_listfiles>dotnet run "F:\Document\vente-new\HENDERS & HAZEL\livada\To_site\new"
+
